@@ -4,7 +4,7 @@ This repository contains a collection of my programming projects and assignments
 
 ## Projects
 
-### [ASP.NET-MVC-Entity-Framework](https://github.com/emrahaslangiri11/ASP.NET-MVC-Entity-Framework)
+### [ASP.NET-MVC-Entity-Framework](https://github.com/emrahaslangiri11/ASP.NET-MVC-Entity-Framework-Assignment-Part-4)
 A web application developed using ASP.NET MVC architecture and Entity Framework for database operations. This project demonstrates the implementation of Model-View-Controller pattern with database integration.
 
 ### [Polymorphism-Assignment-Submission](https://github.com/emrahaslangiri11/Polymorphism-Assignment-Submission)
