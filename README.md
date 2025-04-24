@@ -18,3 +18,6 @@ A demonstration of methods and classes in object-oriented programming. This proj
 
 ### [Final-Assignment-Submission](https://github.com/emrahaslangiri11/Final-Assignment-Submission)
 A culminating project that integrates multiple programming concepts. This comprehensive application demonstrates the practical application of programming principles learned throughout the course.
+
+
+Emrah Aslangiri
